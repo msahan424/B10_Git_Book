@@ -1,4 +1,4 @@
 
 
-so far we leaneds git flow for
+so far we learnt git flow for
 commit===> push 
