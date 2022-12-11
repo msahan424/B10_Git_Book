@@ -1,1 +1,2 @@
 Create a new page on github to see how is working with fetch 
+Now updated page 
